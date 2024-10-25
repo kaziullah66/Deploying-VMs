@@ -6,7 +6,7 @@
 </p>
 
 <h1>Deploying Azure Virtual Machines</h1>
-In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
+In this tutorial, we will go through the steps needed to create virtual machines on Azure <br />
 
 
 <h2>Environments and Technologies Used</h2>
