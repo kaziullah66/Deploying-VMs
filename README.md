@@ -12,10 +12,14 @@ In this tutorial, we will go through the steps needed to create virtual machines
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Various Command-Line Tools
-- Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
-- Wireshark (Protocol Analyzer)
+- Resource Group Environment
+- Region
+- Virtual Network(VNet)
+- Subnet
+- Operating Systems
+- Storage
+- Network Security Groups(NSGs)
+- 
 
 <h2>Operating Systems Used </h2>
 
