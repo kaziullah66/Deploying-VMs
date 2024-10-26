@@ -19,31 +19,16 @@ In this tutorial, we will go through the steps needed to create virtual machines
 - Operating Systems
 - Storage
 - Network Security Groups(NSGs)
-- 
 
-<h2>Operating Systems Used </h2>
 
-- Windows 10 (21H2)
-- Ubuntu Server 20.04
 
-<h2>High-Level Steps</h2>
-
-- Create Windows and Linux virtual machines
-- Download a protocol analyzer 
-- Filter for ICMP traffic 
-- Send out a perpetual ping
-- Create an inbound security rule 
-- Log on to the Linux virtual machine and filter for SSH on Wireshark
-- Filter for DNS
-- Filter for RDP
-
-<h2>Actions and Observations</h2>
+<h2>Steps</h2>
 
 <p>
-<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462546698_1532769527599755_5436332455491231297_n.png?_nc_cat=105&ccb=1-7&_nc_sid=9f807c&_nc_ohc=kXqqR6QYVn4Q7kNvgF2R4Dr&_nc_ht=scontent-lga3-2.xx&_nc_gid=Ar-jMIxPTT1EdEThrkPaJz4&oh=03_Q7cD1QGztmvwvKUf784jEsTam2t5s96y9CyntCylUtQRuvHZmA&oe=6733395B" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462535692_1057394996127071_1273292413106901476_n.png?_nc_cat=101&ccb=1-7&_nc_sid=9f807c&_nc_ohc=i4GFQ3JnzeYQ7kNvgEZa4-O&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=AuKfCNWZjujMrIacc4Nqn56&oh=03_Q7cD1QFbdqjeQzlzw2CKDxMfoOkLAEYftOgeNJFRTGMH_i064g&oe=6743C3F8"/>
 </p>
 <p>
-We created a Linux and a Windows virtual machine on the same network so we could observe traffic between each other. 
+Go to virtual machines, click the "+ Create" button, and click Azure virtual machine. 
 </p>
 <br />
 <br />
