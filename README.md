@@ -34,10 +34,9 @@ Go to virtual machines, click the "+ Create" button, and click Azure virtual mac
 <br />
 <p>
 <img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462551411_1959053414520918_4385247132022562839_n.png?_nc_cat=110&ccb=1-7&_nc_sid=9f807c&_nc_ohc=c2k6ZK4QO3gQ7kNvgGB9vuW&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=AUr0V-nsWZigJduxQQ4_VmO&oh=03_Q7cD1QEVgq9K8GEYvmxH3PIWNWDdw8x0EqNGCF1tD51jxG1eoA&oe=6745AB94"/>
-
 </p>
 <p>
-We downloaded Wireshark, a protocol analyzer, and started observing traffic on the computer.
+Now you can choose a subscription.
 </p>
 <br />
 <br />
