@@ -33,8 +33,8 @@ Go to virtual machines, click the "+ Create" button, and click Azure virtual mac
 <br />
 <br />
 <p>
-<img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/462547701_865569982375316_464831406093664846_n.png?_nc_cat=108&ccb=1-7&_nc_sid=0024fc&_nc_ohc=NcmCIA2voJQQ7kNvgHlei7x&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_gid=A_habXvldgvuLwKZaDX7U93&oh=03_Q7cD1QFkDRCSvh5N3pR2ygeLLMkh-iGfaLexWogX7dA4uqSTug&oe=67332D66"/>
-<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462542524_1405934143699130_2291762641591403772_n.png?_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=mILDAqVf3VAQ7kNvgH9YzXW&_nc_ht=scontent-lga3-2.xx&_nc_gid=A9TRwuGQcF22EV-CEymANH6&oh=03_Q7cD1QGUb-AEX0zTBYnOSx3D39qCApF09mBNqUwjDmknXdKygg&oe=6733283F"/>
+<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462551411_1959053414520918_4385247132022562839_n.png?_nc_cat=110&ccb=1-7&_nc_sid=9f807c&_nc_ohc=c2k6ZK4QO3gQ7kNvgGB9vuW&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=AUr0V-nsWZigJduxQQ4_VmO&oh=03_Q7cD1QEVgq9K8GEYvmxH3PIWNWDdw8x0EqNGCF1tD51jxG1eoA&oe=6745AB94"/>
+
 </p>
 <p>
 We downloaded Wireshark, a protocol analyzer, and started observing traffic on the computer.
