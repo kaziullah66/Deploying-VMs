@@ -61,12 +61,12 @@ Here you will think of a name for your virtual machine. Make sure to keep it sho
 <img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462554620_931057108886008_5070631755048768871_n.png?_nc_cat=108&ccb=1-7&_nc_sid=9f807c&_nc_ohc=mjo1e4DrUUsQ7kNvgEvN3Be&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=AzHicXKjquL-qnG3Lc2ttgE&oh=03_Q7cD1QFakdojOx-ftG6AgPWhIUEorQ3fLk4Xl30tFbTH-wcIcg&oe=674834D9"/>
 </p>
 <p>
-In this part we will choose where our virtual machine will be located. A virtual machine is a software based computer and they are stored in servers all around the world. Here yo will choose where you would like to have your virtual machine.
+In this part, we will choose where our virtual machine will be located. A virtual machine is a software-based computer and they are stored in servers all around the world. Here you will choose where you would like to have your virtual machine.
 </p>
 <br />
 <br />
 <p>
-<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462547921_3523912771248600_2757100729062954209_n.png?_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=eQbXbDUofnMQ7kNvgFgPBmI&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=ARSu9sOtCdfuxPVcN3FGaXf&oh=03_Q7cD1QECcsuRkexx26seI2uV7yImprujVsPX-8Nqk8sfDJ25LQ&oe=67483F1ED"/>
+<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462547921_3523912771248600_2757100729062954209_n.png?_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=eQbXbDUofnMQ7kNvgFgPBmI&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=A9yP-NXrluf0TChW0VAlSTC&oh=03_Q7cD1QGqCCMnEDafo1Jd6JVEBJ9JEffB45GtgGkZ1Lkc_bMQhg&oe=67483F1E"/>
 </p>
 <p>
 Image simpily is the operating system you wish to use. Your options to choose from include Windows and Linux based virtual machines.
