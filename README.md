@@ -15,10 +15,9 @@ In this tutorial, we will go through the steps needed to create virtual machines
 - Resource Group Environment
 - Region
 - Virtual Network(VNet)
-- Subnet
 - Operating Systems
 - Storage
-- Network Security Groups(NSGs)
+- Authentication
 
 
 
