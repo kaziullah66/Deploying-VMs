@@ -44,30 +44,56 @@ Now you can choose a subscription.
 <img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462542831_1295424718537201_8759737473628678491_n.png?_nc_cat=111&ccb=1-7&_nc_sid=9f807c&_nc_ohc=00t9Yfd4i0MQ7kNvgGBcJ9v&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=AZ3S1PydjAvAFWbSr-oX_Rf&oh=03_Q7cD1QHrjc1cVlP1u4rYA0jtLLFb72Fd5n-_b1-IGyEozvnAIA&oe=67484CA6"/>
 </p>
 <p>
-Now we will create a resource group. A resource group holds all of your resources in one place making it easy to manage. 
+Next we will create a resource group. A resource group holds all of our resources in one place making it easy to manage. 
 </p>
 <br />
 <br />
 <p>
-<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462543021_1616316085945696_4570867840570373192_n.png?_nc_cat=105&ccb=1-7&_nc_sid=9f807c&_nc_ohc=NdPEFi3Z3lgQ7kNvgEvuYk2&_nc_ht=scontent-lga3-2.xx&_nc_gid=ASJlsmJFniigreI5skKyyu4&oh=03_Q7cD1QHMGnZgzPk5upi7CD57GTN4HbDy2m0Jgs4VnajorX0Bcg&oe=67333DBA"/>
+<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462559019_1882273395594663_1246778324972284439_n.png?_nc_cat=109&ccb=1-7&_nc_sid=9f807c&_nc_ohc=55tCh2IllLsQ7kNvgERqkze&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=ADcKHZ4NZKSDgGl4wvNQ23A&oh=03_Q7cD1QF4uMFUdtqwI3ypAJygsXOgTiAYMtJG1fOVoira-7Luyg&oe=67484135"/>
+</p>
 
-<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462567831_552622970489830_6102310246806097682_n.png?_nc_cat=101&ccb=1-7&_nc_sid=9f807c&_nc_ohc=YnHwbvvURNMQ7kNvgHFW9dU&_nc_ht=scontent-lga3-2.xx&_nc_gid=AX4KhUkcdsIG868Ji_ZAveV&oh=03_Q7cD1QG2RLf7ygG7ygNDcSTOeZpE7AohK5uUUpY9E444y_i2dg&oe=67334B05"/>
-
-</p>
 <p>
-We created an inbound port rule for our Linux virtual machine in Azure to deny incoming requests. We see that the requests are now timing out and being ignored.
+Here you will think of a name for your virtual machine. Make sure to keep it short and meaningful. 
 </p>
 <br />
 <br />
 <p>
-<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462639026_1085569749852165_3156622879168093775_n.png?_nc_cat=101&ccb=1-7&_nc_sid=9f807c&_nc_ohc=EJtMqOO3mB0Q7kNvgFLqBnQ&_nc_ht=scontent-lga3-2.xx&_nc_gid=ANZkkAN6lGuj11HiKzAubIr&oh=03_Q7cD1QHDWVPHHlU8QhnMe56rfaLfLWdXLGkfYdO9FK64dcu7NA&oe=6734FBAA"/>
+<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462554620_931057108886008_5070631755048768871_n.png?_nc_cat=108&ccb=1-7&_nc_sid=9f807c&_nc_ohc=mjo1e4DrUUsQ7kNvgEvN3Be&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=AzHicXKjquL-qnG3Lc2ttgE&oh=03_Q7cD1QFakdojOx-ftG6AgPWhIUEorQ3fLk4Xl30tFbTH-wcIcg&oe=674834D9"/>
 </p>
 <p>
-We connected to our Linux virtual machine and filtered for SSH. 
+In this part we will choose where our virtual machine will be located. A virtual machine is a software based computer and they are stored in servers all around the world. Here yo will choose where you would like to have your virtual machine.
 </p>
 <br />
 <br />
 <p>
+<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462547921_3523912771248600_2757100729062954209_n.png?_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=eQbXbDUofnMQ7kNvgFgPBmI&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=ARSu9sOtCdfuxPVcN3FGaXf&oh=03_Q7cD1QECcsuRkexx26seI2uV7yImprujVsPX-8Nqk8sfDJ25LQ&oe=67483F1ED"/>
+</p>
+<p>
+Image simpily is the operating system you wish to use. Your options to choose from include Windows and Linux based virtual machines.
+</p>
+<br />
+<br />
+<p>
+<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462553997_502399422802145_4953393159092313798_n.png?_nc_cat=111&ccb=1-7&_nc_sid=9f807c&_nc_ohc=9dg9iPl34goQ7kNvgENqyjX&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=A5evCHFN0zq_LioqLVOLA68&oh=03_Q7cD1QEBjGqT7gModbQJ5rZOimhl3FdsPJaeMJC9ivPJv5in_w&oe=6748436C"/>
+</p>
+<p>
+After we have chosen your image we have to choose the size. You will choose the size based on what you will use the virtual machine for, also taking into account the cost and scalability but you are able to scale up and down based on your needs later. For example if you are just testing on small tasks you may be able to get away with 2 vcpus(2 cores) which will allow for a much lower cost.
+</p>
+<br />
+<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462539840_1050355300170841_2499457334563325859_n.png?_nc_cat=102&ccb=1-7&_nc_sid=9f807c&_nc_ohc=NdhcGkN1veQQ7kNvgGLSg5u&_nc_ht=scontent-lga3-1.xx&_nc_gid=AaAaEIdQiNam4YE_ZM3ed0M&oh=03_Q7cD1QFayGGyexi3A9APUGfAnsVJBpzC7uCo_rHE2Bkm7kHkwQ&oe=6735227D"/>
+</p>
+<p>
+We filtered for DNS. 
+</p>
+<br />
+<br />
+<p>
+<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462540281_556518583724149_4773454699472645203_n.png?_nc_cat=103&ccb=1-7&_nc_sid=9f807c&_nc_ohc=FKDA7piLw2sQ7kNvgG2F7n7&_nc_ht=scontent-lga3-1.xx&_nc_gid=A-36XImvw4MaPyR_7jzt4RD&oh=03_Q7cD1QGIKzQ4U6j34kGtetV0bcb3DmyjqBuQKVtKsM5dDkUAXA&oe=673528F1"/>
+</p>
+<p>
+We filtered for RDP. 
+</p>
+<br />
 <img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462539840_1050355300170841_2499457334563325859_n.png?_nc_cat=102&ccb=1-7&_nc_sid=9f807c&_nc_ohc=NdhcGkN1veQQ7kNvgGLSg5u&_nc_ht=scontent-lga3-1.xx&_nc_gid=AaAaEIdQiNam4YE_ZM3ed0M&oh=03_Q7cD1QFayGGyexi3A9APUGfAnsVJBpzC7uCo_rHE2Bkm7kHkwQ&oe=6735227D"/>
 </p>
 <p>
