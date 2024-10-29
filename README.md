@@ -1,10 +1,10 @@
 <p align="center">
 <img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462546323_2601541603570069_6929602243085794007_n.jpg?stp=dst-jpg_s2048x2048&_nc_cat=103&ccb=1-7&_nc_sid=9f807c&_nc_ohc=B7W_dorxipYQ7kNvgF_BWq1&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=AcqTjbfsoSvIAhbNGuwPZWD&oh=03_Q7cD1QFgv50kgJDFjkoqS1AJ6j6V_j-I2Zz-icBMsw1LNbIbQQ&oe=6742F978" width="550" height="300"/>
 </p>
-<p align="center">
-  <h1>Deploying Azure Virtual Machines</h1>
+
+  <h1 align="center">Deploying Azure Virtual Machines</h1>
   In this tutorial, we will go through the steps needed to create virtual machines on Azure. <br />
-</p>
+
 
 <h2>Environments and Technologies Used</h2>
 
