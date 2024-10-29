@@ -6,7 +6,7 @@
 </p>
 
 <h1>Deploying Azure Virtual Machines</h1>
-In this tutorial, we will go through the steps needed to create virtual machines on Azure <br />
+In this tutorial, we will go through the steps needed to create virtual machines on Azure. <br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -41,10 +41,10 @@ Now you can choose a subscription.
 <br />
 <br />
 <p>
-<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462041292_1078707823865198_7710343445828787921_n.png?_nc_cat=105&ccb=1-7&_nc_sid=9f807c&_nc_ohc=jPaKa8WiX2wQ7kNvgHUjjPP&_nc_ht=scontent-lga3-2.xx&_nc_gid=AknKDGaSMPzMxIs6m2zFGQv&oh=03_Q7cD1QG2x8ljNMoSGaVja6HsDoV8jeyreMvSB4eBf6J0Lkmg5w&oe=673353E3"/>
+<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462542831_1295424718537201_8759737473628678491_n.png?_nc_cat=111&ccb=1-7&_nc_sid=9f807c&_nc_ohc=00t9Yfd4i0MQ7kNvgGBcJ9v&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=AZ3S1PydjAvAFWbSr-oX_Rf&oh=03_Q7cD1QHrjc1cVlP1u4rYA0jtLLFb72Fd5n-_b1-IGyEozvnAIA&oe=67484CA6"/>
 </p>
 <p>
-We filtered for ICMP traffic, initiated a perpetual ping, and started receiving replies from the Linux virtual machine. 
+Now we will create a resource group. A resource group holds all of your resources in one place making it easy to manage. 
 </p>
 <br />
 <br />
