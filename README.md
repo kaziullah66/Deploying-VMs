@@ -80,10 +80,10 @@ Image simpily is the operating system you wish to use. Your options to choose fr
 After we have chosen your image we have to choose the size. You will choose the size based on what you will use the virtual machine for, also taking into account the cost and scalability but you are able to scale up and down based on your needs later. For example if you are just testing on small tasks you may be able to get away with 2 vcpus(2 cores) which will allow for a much lower cost.
 </p>
 <br />
-<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462539840_1050355300170841_2499457334563325859_n.png?_nc_cat=102&ccb=1-7&_nc_sid=9f807c&_nc_ohc=NdhcGkN1veQQ7kNvgGLSg5u&_nc_ht=scontent-lga3-1.xx&_nc_gid=AaAaEIdQiNam4YE_ZM3ed0M&oh=03_Q7cD1QFayGGyexi3A9APUGfAnsVJBpzC7uCo_rHE2Bkm7kHkwQ&oe=6735227D"/>
+<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462637782_595077726284457_935809349317951669_n.png?_nc_cat=102&ccb=1-7&_nc_sid=9f807c&_nc_ohc=V5vznWpKjM8Q7kNvgFwbwlm&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=A34kRGjwkhD60NTFLMcFZOT&oh=03_Q7cD1QGaHaucq6sikBNk8psfYdD0QpoDdUgM46kfwGp5SwLfWQ&oe=67484803"/>
 </p>
 <p>
-We filtered for DNS. 
+For "authentication type" we will select password. Take out something, physical paper or notepad of the computer, to note down your credentials(username and password)
 </p>
 <br />
 <br />
