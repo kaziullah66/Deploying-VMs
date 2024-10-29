@@ -104,13 +104,20 @@ A virtual network is a private network that allows you to manage your network co
 <br />
 <br />
 <p>
-<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462540281_556518583724149_4773454699472645203_n.png?_nc_cat=103&ccb=1-7&_nc_sid=9f807c&_nc_ohc=FKDA7piLw2sQ7kNvgG2F7n7&_nc_ht=scontent-lga3-1.xx&_nc_gid=A-36XImvw4MaPyR_7jzt4RD&oh=03_Q7cD1QGIKzQ4U6j34kGtetV0bcb3DmyjqBuQKVtKsM5dDkUAXA&oe=673528F1"/>
+<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462562604_1607937286819125_5729683410468730047_n.png?_nc_cat=103&ccb=1-7&_nc_sid=9f807c&_nc_ohc=9j0irTtELukQ7kNvgG-dVS_&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=AZMnglk4lqAVuvy9IuqBimR&oh=03_Q7cD1QF378fI1dE-4aRox6gQqYz97ALZfbAwYRRcOYd98-ATZQ&oe=67485C0E"/>
 </p>
 <p>
-We filtered for RDP. 
+After that, you can click " Review + create". 
+</p>
+
+<br />
+<p>
+<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462550773_1266952594328136_5553025988180877298_n.png?_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=xboAQCwnwlsQ7kNvgFtf-oT&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=ASaOGuV9H3Oj2SAkjPrCw4n&oh=03_Q7cD1QGarsSLo3oXqCc5r38H-Prh0fcGfW6Z4TYceCSZleFChw&oe=67486582"/>
+</p>
+<p>
+Lastly, once you have passed the validation, you will click "create" and Azure will start creating your virtual machine. 
 </p>
 <br />
-
 
 
 
