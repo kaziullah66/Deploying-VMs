@@ -40,7 +40,7 @@ Now you can choose a subscription.
 <img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462542831_1295424718537201_8759737473628678491_n.png?_nc_cat=111&ccb=1-7&_nc_sid=9f807c&_nc_ohc=00t9Yfd4i0MQ7kNvgGBcJ9v&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=AZ3S1PydjAvAFWbSr-oX_Rf&oh=03_Q7cD1QHrjc1cVlP1u4rYA0jtLLFb72Fd5n-_b1-IGyEozvnAIA&oe=67484CA6"/>
 </p>
 <p>
-Next, we will create a resource group by clicking "Create new", putting a name, and pressing "Ok". A resource group holds all our resources in one place making it easy to manage. 
+Next, we will create a resource group by clicking "Create new", putting a name, and pressing "OK". A resource group holds all our resources in one place making it easy to manage. 
 </p>
 <br />
 <br />
@@ -95,7 +95,7 @@ Click next on Disks and then on Networking.
 <img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462547944_1223457248860526_4079091068965591722_n.png?_nc_cat=105&ccb=1-7&_nc_sid=9f807c&_nc_ohc=LVx9Rozr7e4Q7kNvgE6RqW9&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=ABTDPtZpIPxeVFhtaiv1edE&oh=03_Q7cD1QFLkkhGib_EbjaLmGzCqwxduV-SA8utcV1gsBUujQW_XA&oe=67486F03"/>
 </p>
 <p>
-A virtual network is a private network that allows you to manage your network configurations. You can use the one they have for you or you can create a new one by clicking "Create new", putting in the name you desire for your virtual network, and pressing ok. 
+A virtual network is a private network that allows you to manage your network configurations. You can use the one they have for you or you can create a new one by clicking "Create new", putting in the name you desire for your virtual network, and pressing "OK". 
 </p>
 <br />
 <br />
