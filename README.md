@@ -40,7 +40,7 @@ Now you can choose a subscription.
 <img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462542831_1295424718537201_8759737473628678491_n.png?_nc_cat=111&ccb=1-7&_nc_sid=9f807c&_nc_ohc=00t9Yfd4i0MQ7kNvgGBcJ9v&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=AZ3S1PydjAvAFWbSr-oX_Rf&oh=03_Q7cD1QHrjc1cVlP1u4rYA0jtLLFb72Fd5n-_b1-IGyEozvnAIA&oe=67484CA6"/>
 </p>
 <p>
-Next, we will create a resource group. A resource group holds all of our resources in one place making it easy to manage. 
+Next, we will create a resource group by clicking Create New. A resource group holds all our resources in one place making it easy to manage. 
 </p>
 <br />
 <br />
