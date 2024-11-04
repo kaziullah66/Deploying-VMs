@@ -111,7 +111,7 @@ After that, you can click " Review + create".
 <img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462550773_1266952594328136_5553025988180877298_n.png?_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=xboAQCwnwlsQ7kNvgFtf-oT&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=ASaOGuV9H3Oj2SAkjPrCw4n&oh=03_Q7cD1QGarsSLo3oXqCc5r38H-Prh0fcGfW6Z4TYceCSZleFChw&oe=67486582"/>
 </p>
 <p>
-Lastly, once you have passed the validation, you will click "create" and Azure will start creating your virtual machine. 
+Lastly, once you have passed the validation, you will click "create" and in a few minutes it will be complete. Congratulations on creating your virtual machine!
 </p>
 <br />
 
