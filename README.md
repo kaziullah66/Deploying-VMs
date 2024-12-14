@@ -37,7 +37,7 @@ Now you can choose a subscription.
 <br />
 <br />
 <p>
-<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462542831_1295424718537201_8759737473628678491_n.png?_nc_cat=111&ccb=1-7&_nc_sid=9f807c&_nc_ohc=00t9Yfd4i0MQ7kNvgGBcJ9v&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=AZ3S1PydjAvAFWbSr-oX_Rf&oh=03_Q7cD1QHrjc1cVlP1u4rYA0jtLLFb72Fd5n-_b1-IGyEozvnAIA&oe=67484CA6"/>
+<img src="https://i.imgur.com/Pjy6278.png"/>
 </p>
 <p>
 Next, we will create a resource group by clicking "Create new", putting a name, and pressing "OK". A resource group holds all our resources in one place making it easy to manage. 
@@ -45,7 +45,7 @@ Next, we will create a resource group by clicking "Create new", putting a name, 
 <br />
 <br />
 <p>
-<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462559019_1882273395594663_1246778324972284439_n.png?_nc_cat=109&ccb=1-7&_nc_sid=9f807c&_nc_ohc=55tCh2IllLsQ7kNvgERqkze&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=ADcKHZ4NZKSDgGl4wvNQ23A&oh=03_Q7cD1QF4uMFUdtqwI3ypAJygsXOgTiAYMtJG1fOVoira-7Luyg&oe=67484135"/>
+<img src="https://i.imgur.com/9QyAwpM.png"/>
 </p>
 
 <p>
@@ -54,7 +54,7 @@ Here you will think of a name for your virtual machine. Make sure to keep it sho
 <br />
 <br />
 <p>
-<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462554620_931057108886008_5070631755048768871_n.png?_nc_cat=108&ccb=1-7&_nc_sid=9f807c&_nc_ohc=mjo1e4DrUUsQ7kNvgEvN3Be&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=AzHicXKjquL-qnG3Lc2ttgE&oh=03_Q7cD1QFakdojOx-ftG6AgPWhIUEorQ3fLk4Xl30tFbTH-wcIcg&oe=674834D9"/>
+<img src="https://i.imgur.com/6FkaNIU.png"/>
 </p>
 <p>
 In this part, we will choose where our virtual machine will be located. A virtual machine is a software-based computer and they are stored in servers all around the world. Here you will choose where you would like to have your virtual machine.
@@ -62,10 +62,10 @@ In this part, we will choose where our virtual machine will be located. A virtua
 <br />
 <br />
 <p>
-<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462547921_3523912771248600_2757100729062954209_n.png?_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=eQbXbDUofnMQ7kNvgFgPBmI&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=A9yP-NXrluf0TChW0VAlSTC&oh=03_Q7cD1QGqCCMnEDafo1Jd6JVEBJ9JEffB45GtgGkZ1Lkc_bMQhg&oe=67483F1E"/>
+<img src="https://i.imgur.com/xtFz6Hn.png"/>
 </p>
 <p>
-Image simpily is the operating system you wish to use. Your options to choose from include Windows and Linux based virtual machines.
+Image is simpily the operating system you wish to use. Your options to choose from include Windows and Linux-based virtual machines.
 </p>
 <br />
 <br />
