@@ -70,16 +70,16 @@ Image is simpily the operating system you wish to use. Your options to choose fr
 <br />
 <br />
 <p>
-<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462553997_502399422802145_4953393159092313798_n.png?_nc_cat=111&ccb=1-7&_nc_sid=9f807c&_nc_ohc=9dg9iPl34goQ7kNvgENqyjX&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=A5evCHFN0zq_LioqLVOLA68&oh=03_Q7cD1QEBjGqT7gModbQJ5rZOimhl3FdsPJaeMJC9ivPJv5in_w&oe=6748436C"/>
+<img src="https://i.imgur.com/1LTdbWc.png"/>
 </p>
 <p>
-After we have chosen your image we have to choose the size. You will choose the size based on what you will use the virtual machine for, also taking into account the cost and scalability but you are able to scale up and down based on your needs later. For example, if you are just testing on small tasks you may be able to get away with 2 vcpus(2 cores) which will allow for a much lower cost.
+After we have chosen the image, we have to choose the size. You will choose the size based on what you will use the virtual machine for, also taking into account the cost and scalability. However, you can scale up and down based on your needs later. For example, if you are just testing on small tasks, you may be able to get away with 2 VCPs (2 cores), which will allow for a much lower cost.
 </p>
 <br />
-<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462637782_595077726284457_935809349317951669_n.png?_nc_cat=102&ccb=1-7&_nc_sid=9f807c&_nc_ohc=V5vznWpKjM8Q7kNvgFwbwlm&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=A34kRGjwkhD60NTFLMcFZOT&oh=03_Q7cD1QGaHaucq6sikBNk8psfYdD0QpoDdUgM46kfwGp5SwLfWQ&oe=67484803"/>
+<img src="https://i.imgur.com/A5Htbma.png"/>
 </p>
 <p>
-For "authentication type" we will select password. Take out something, physical paper or notepad of the computer, to note down your credentials (username and password) so you never forget it.
+For "authentication type" we will select, password. Now take out a sheet of paper or open notepad on the computer, to note down your credentials (username and password) so you never forget it.
 </p>
 <br />
 <br />
